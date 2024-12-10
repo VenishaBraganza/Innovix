@@ -151,23 +151,5 @@ git push -u origin <your_branch_name>
 
 **14.** Click on `Create Pull Request`.
 
-**15.** Voila :exclamation: You have made a PR to the Akshima-Ghai/OneEducationalWebsiteForAll project :boom: . Sit back patiently and relax while the project maintainers review your PR. Please understand, at times the time taken to review a PR can vary from a few hours to a few days.
 
-<p align="center"><img src="https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif" width=30%></p>
 
-## Project Admin 👩: Akshima Ghai
-<img src="[https://media.tenor.com/images/b562ddcfb131e962f9dfa01bd32a30d1/tenor.gif](https://avatars.githubusercontent.com/u/58785998?v=4)" width=30%>
-<a href="https://www.linkedin.com/in/akshima-ghai-196932197/">
-<h5 align="center"><b>Akshima Ghai</b></a>
-
-# License
-
-<p align="center">
-<a href="https://github.com/Akshima-Ghai/OneEducationalWebsiteForAll/blob/main/LICENSE">
-<img width=35% src="https://media0.giphy.com/media/3ornjXbo3cjqh2BIyY/200.gif"></p>
-<h5 align="center"><b>MIT License</b></a>  
-  
-## Contributors
-<a href="https://github.com/Akshima-Ghai/OneEducationalWebsiteForAll/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Akshima-Ghai/OneEducationalWebsiteForAll" />
-</a>
